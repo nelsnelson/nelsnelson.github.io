@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+User-agent: Googlebot
+Allow: /index.html
+Allow: /resume.txt
+Allow: /resume.html
+Allow: /
+

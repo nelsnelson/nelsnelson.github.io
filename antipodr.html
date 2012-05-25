@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>antipodr - Find the other side of the world!</title>
+    <meta name="description" content="Calculate the exact other side of the planet with this simple tool!" />
+    <meta name="keywords" content="other,side,planet,earth,map,maps,antipodal,geography,dig to china, antipodal point, antipodes, antithesis" />
+    <meta name="rating" content="Safe For Kids" />
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <style>
+body {
+    color: #fff;
+    background: #333333;
+    text-align: center;
+    font-family:arial;
+}
+#wrapper {
+    margin: 30px auto;
+}
+#addr-form {
+    margin: 0 auto;
+    width: 800px;
+}
+#addr-form ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#addr-form ul li {
+    margin: 15px 0px;
+}
+#addr-form input.addr {
+    height: 40px;
+    color: #999;
+    background-color: #555;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#444), to(#666));
+    background: -webkit-linear-gradient(top, #444, #666);
+    background: -moz-linear-gradient(top, #444, #666);
+    background: -ms-linear-gradient(top, #444, #666);
+    background: -o-linear-gradient(top, #444, #666);
+    font: 28px Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+    border: 2px solid lightgrey;
+    padding: 3px 0px;
+}
+#addr-form input.submit {
+    color: #333;
+    background-color: 777;
+    font: 1em Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+    border: 2px solid grey;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -khtml-border-radius: 5px;
+    padding: 10px 10px;
+}
+    </style>
+  </head>
+  <body>
+    <div id="wrapper">
+    <div style="width: 810px; margin: auto;">
+      <div id="home_map" style="display: none; float:left;width: 400px; height: 300px;"></div>
+      <div id="dest_map" style="display: none; float:left;width: 400px; height: 300px;"></div>
+    </div>
+    
+    <br clear="all" />
+    <br clear="all" />
+         
+    <div id="addr-form">
+      <ul>
+        <li><input type="text" size="50" name="addr" class="addr" id="addr" placeholder="Enter Address, City, State or Zip Code"/></li>
+        <li><input type="button" value="Find the other side of the world" name="submit" class="submit" id="submit" /></li>
+      <ul>
+    </div>
+    
+    </div>
+  </div>
+  
+  <script type="text/javascript" src="/js/antipodr.js"></script>
+  
+</html>
+

@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/nelsnelson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nelsnelson.org
+  * I am nelsnelson (https://keybase.io/nelsnelson) on keybase.
+  * I have a public key with fingerprint 0D37 613C 5001 9402 24CC  85C1 0C78 DB8E 8912 235B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01203d198443d2a47526df5beaf09a922b132e78d43b37b0d15c710fb595877964130a",
+            "fingerprint": "0d37613c5001940224cc85c10c78db8e8912235b",
+            "host": "keybase.io",
+            "key_id": "0c78db8e8912235b",
+            "kid": "0101ecb902e4abefa11ef0b2e28446d2e3688fa0d1496e7997738c2211ad25b9a53d0a",
+            "uid": "f04daa2bb7bb16679b5a478c50f58d19",
+            "username": "nelsnelson"
+        },
+        "service": {
+            "hostname": "nelsnelson.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470599437,
+    "expire_in": 157680000,
+    "prev": "53e98dd597fe153db415ff860026e5bbe1196189606e673030d5b6c2737511e1",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMNwAnicZVJ/UFRVGF1cMkEQNFEZnIC3RUwQvft+vx2xPxyBxWQaJiwIgnffu295
+grvr7kI4K4YOxIZjQiBpiDLVaGE4FgjBArKaDSMQNlNZpBn4KxAMiEwCqvco//LO
+3Llzv3vO+c535n4ZqNf5+wQU/fTO26sMr/n0eY8W6F45WRXowqBV2oUZXVgeWjxQ
+voQczuw8RcKMGA4InJQAz1EUKRECxdIEI8k0RIKM8wJPEBCQBGI5iSIhyUJcArTI
+AlyGNE9zLMszFCBxAYvFZMViRnabXbE4NVmJZBlAijSOA57CCYISRY4WAS6qUpBD
+HA8IgqShSsy1OjSGag4KDhSnWNWaesn+z96j+Ie+cYBEyOMEogSIZAEAJOOQQIQ6
+CSMRiGQ4ThZUvxTPIJbnWZbkRIIAQJAIGvICTUqLvgsW5WSckgSBgJCFEDAMy0Na
+zYJT/cs0p8ajAR3IbhF2IBVtQfkObVstWHEsptYLFRFp0WqzPIKJs9rNKt9mtzqt
+ojVffct1Om0Oo8Z17rJp4DcQzP5fJhsqFknNUmUUIrtDUXsYgYoUnYqmCygWp3me
+ItlYDBXZFDvKVjQEzTIcri6tDypUJWkS8Zwk0TwrI6AOCylAyzLH4DjBIBpCBADP
+AI5ncAYxLImTuERDRiRYkqXVLAGmDbbTYtW0VZ+CWdV0KGaL4CywI6z4vDfTV+fj
+r1v62BLtk+n8/YIffr3Bj4IWQuf+CckhDlqfCcG6okfG1novuCrLJ8YPnhuoP7uw
+22jTJ5iOrY5rbymb+swQdXjGnfj4niOHmnUVE+lf1/WVJoSEZuoebMrwn66afrV2
+qv309zXLPyhpOJ5Q4q5489yS+E3uGO/kaKpLPMWb0nZII8amiZ3hPw6cXpUw1jje
+cOn3nrX698PWzwdHBPGlpqaF7ks6rDK6eXvkDZQwqn+r3iNft97fHJt168OuZe1T
+y20ey1zUhrpDYTfX37ho0s/OXpkJ7WwOUyqHr11OvDc4dPZw8e3LjStCz8yv6G3Q
+l1fv3Ja7L+jXnKA/y+yv97q2bp/2DHr8ksze+wdSYk/5nhjcK7cu/zTPL3Musbok
+Psyz7mSFeKzVSK0sih9qadvQvbfjifmtwV/Nplzvn5Euthydb0taPZn1wh/uC7W9
+63U55urnM1p/i0p7Mn2fK+I8u+cK6x69VNXUWh8ZMTB2d3dMxtXOIyXNnT338u7U
+XAuKvD0cYNjyIPOET9uU4akz4M5Vj29yTOHHPsNzSSZPx7szaUPpK5a+CLpLmf7y
+4OTNt+yN+/uSiW8D7iqf9wz/9ew22nqzp+g9r4GEI2xX/0tp11Zu+eVOYGq0wf3y
+D5P711T8zEVWTH4RCP7OSShLzez4rnOuNtz9zTrX5LKsus7ep72hz238pCYlfJ03
+cbzcMHo8pdMUc9uwcc2/8F7ElA==
+=qpZi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nelsnelson
+
+==================================================================
+
